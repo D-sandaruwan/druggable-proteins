@@ -1,0 +1,2 @@
+feature_type,model,with_hypertuning,accuracy,sensitivity,specificity,precision,f1,mcc,index
+AAC,LGBMClassifier,False,0.8855303381194999,0.8125,0.9240506329113924,0.91,0.8584905660377358,0.7427891267010005,AAC_LGBMClassifier_no_hypertuning
